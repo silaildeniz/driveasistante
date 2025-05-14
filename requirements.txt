@@ -1,0 +1,16 @@
+# GUI
+PyQt5>=5.15.9
+# Görüntü işleme
+opencv-python>=4.9.0.80
+# Sesli uyarı
+playsound>=1.2.2
+# YOLOv8
+ultralytics>=8.0.20
+# PyTorch (CUDA 11.8)
+torch>=2.2.2+cu118
+torchvision>=0.17.2+cu118
+torchaudio>=2.2.2+cu118
+# HTTP talepleri
+requests>=2.28.0
+# Konum için
+geocoder>=1.38.1
